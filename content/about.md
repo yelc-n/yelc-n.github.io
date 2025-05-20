@@ -2,7 +2,6 @@
 date = '2025-05-18T00:44:43+09:00'
 draft = false
 title = 'Sobre'
-authors = ["cley"]
 +++
 
 # Oi, tudo bem? 👋

@@ -5,6 +5,7 @@ authors = ["cley"]
 description = "Um blog mineiro sobre a vida no Japão, com muito humor, conbini e confusão cultural."
 showTableOfContents = false
 showBreadcrumbs = false
+showComments = true
 +++
 
 🍜**Você já comeu ramen ouvindo moda de viola?**
