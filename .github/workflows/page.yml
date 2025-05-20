@@ -23,12 +23,12 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Setup SSH for Deploy Key
-        run: |
-          mkdir -p ~/.ssh
-          echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/github-deploy-key
-          chmod 600 ~/.ssh/github-deploy-key
-          ssh-keyscan github.com >> ~/.ssh/known_hosts
+      # - name: Setup SSH for Deploy Key
+      #   run: |
+      #     mkdir -p ~/.ssh
+      #     echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/github-deploy-key
+      #     chmod 600 ~/.ssh/github-deploy-key
+      #     ssh-keyscan github.com >> ~/.ssh/known_hosts
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
