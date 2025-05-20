@@ -14,14 +14,14 @@ title = "Uai'men"
   description = "Blog sobre a vida cotidiana e cultural no Japão"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Yelc"
+ [params.author]
+   name = "Yelc"
 #   email = "youremail@example.com"
-#   image = "icon.jpg"
-#   imageQuality = 96
+   image = "icon.png"
+   imageQuality = 96
 #   headline = "Memento Mori"
-#   bio = "A little bit about you"
-#   links = [
+   bio = "Engenheiro de nuvem apaixonado por tecnologia, ramen e rotas alternativas de trem no Japão."
+   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -67,7 +67,7 @@ title = "Uai'men"
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
-#     { youtube = "https://www.youtube.com/@eijapao9222" },
+      { youtube = "https://www.youtube.com/@eijapao9222" }
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+    ]

@@ -3,7 +3,6 @@ date = '2025-05-19T10:00:00+09:00'
 lastmod = '2025-05-20T11:38:00+09:00'
 draft = false
 title = 'Por que o sapo não lava o pé?'
-authors = ["cley"]
 tags = ["sapo", "cotidiano"]
 series = ["Sapos"]
 series_order = 1

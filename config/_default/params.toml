@@ -44,7 +44,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   # homepageImage = "teetuch-timgasigum-star-space.gif" # used in: hero, and card
-  showRecent = false
+  showRecent = true
   showRecentItems = 3
   showMoreLink = false
   showMoreLinkDest = "/posts/"
@@ -124,15 +124,6 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   cardView = false
   cardViewScreenWidth = false
 
-[firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
-
 [fathomAnalytics]
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
@@ -165,3 +156,13 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 [rssnext]
   # feedId = ""
   # userId = ""
+
+[firebase]
+  apiKey = "AIzaSyBqenxJ0yCzmLJuEVEDDJl304Tq8qE2efc"
+  authDomain = "db-for-likes-hugo.firebaseapp.com"
+  databaseURL = "https://db-for-likes-hugo-default-rtdb.firebaseio.com"
+  projectId = "db-for-likes-hugo"
+  storageBucket = "db-for-likes-hugo.firebasestorage.app"
+  messagingSenderId = "157169825985"
+  appId = "YOUR_APP_ID"
+  measurementId = "1:157169825985:web:3919042d084111d76a3c40"
