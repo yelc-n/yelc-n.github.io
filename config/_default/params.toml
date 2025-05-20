@@ -158,10 +158,6 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # feedId = ""
   # userId = ""
 
-[services]
-  [services.disqus]
-    shortname = 'uaimen'
-
 #[firebase]
 #  apiKey = "AIzaSyBqenxJ0yCzmLJuEVEDDJl304Tq8qE2efc"
 #  authDomain = "db-for-likes-hugo.firebaseapp.com"

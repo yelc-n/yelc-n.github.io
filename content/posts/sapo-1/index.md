@@ -6,6 +6,7 @@ title = 'Por que o sapo não lava o pé?'
 tags = ["sapo", "cotidiano"]
 series = ["Sapos"]
 series_order = 1
+showComments = true
 +++
 ### Mas por que sapos?
 Minha filha frequenta uma escola que não tem paredes. 
