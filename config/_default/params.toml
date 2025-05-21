@@ -22,7 +22,7 @@ disableTextInHeader = false
 backgroundImageWidth = 1200
 
 defaultBackgroundImage = "teetuch-timgasigum-star-space.gif" # used as default for background images 
-# defaultFeaturedImage = "back.jpg" # used as default for featured images in all articles
+# defaultFeaturedImage = "teetuch-timgasigum-star-space.gif" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 # smartTOC = true
@@ -158,11 +158,11 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # feedId = ""
   # userId = ""
 
-#[firebase]
-#  apiKey = "AIzaSyBqenxJ0yCzmLJuEVEDDJl304Tq8qE2efc"
-#  authDomain = "db-for-likes-hugo.firebaseapp.com"
-#  databaseURL = "https://db-for-likes-hugo-default-rtdb.firebaseio.com"
-#  projectId = "db-for-likes-hugo"
-#  storageBucket = "db-for-likes-hugo.firebasestorage.app"
-#  messagingSenderId = "157169825985"
-#  appId = "1:157169825985:web:3919042d084111d76a3c40"
+[firebase]
+#  apiKey = ""
+#  authDomain = ""
+#  databaseURL = ""
+#  projectId = ""
+#  storageBucket = ""
+#  messagingSenderId = ""
+#  appId = ""
