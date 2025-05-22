@@ -2,5 +2,6 @@ name = "Yelc"
 bio = "Engenheiro de nuvem apaixonado por tecnologia, ramen e rotas alternativas de trem no Japão."
 image = "icon.png"
 social = [
-    { youtube = "https://www.youtube.com/@eijapao9222" }
+    { youtube = "https://www.youtube.com/@eijapao9222" },
+    { github = "https://github.com/yelc-n" }
 ]
