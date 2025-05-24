@@ -3,6 +3,7 @@ date = '2025-05-18T00:44:43+09:00'
 draft = false
 title = 'Sobre'
 showComments = false
+layoutBackgroundHeaderSpace = false
 +++
 
 # Oi, tudo bem? 👋

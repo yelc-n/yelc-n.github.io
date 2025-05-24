@@ -28,7 +28,7 @@ Eu nao sei e tambem nao sei se sapos tem a capacidade ou a necessidade de se ent
 
 Tomara que eles fiquem vivos. Nao gostaria de perder os sapinhos. Tentar criar 7 e perder 100% deles seria triste. 
 
-Ciclo dew vida do sapo:
+Vou deixar este video aqui que foi bem interessante sobre o ciclo de vida de um sapo.
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 20px;">
   <iframe
     src="https://www.youtube.com/embed/QhAaEuMe39s?si=_rSgQOHq7aA3AOmZ"
@@ -38,3 +38,5 @@ Ciclo dew vida do sapo:
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 20px;">
   </iframe>
 </div>
+
+Valeu e ate a proxima!
