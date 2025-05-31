@@ -10,25 +10,25 @@ showComments = true
 heroStyle = "thumbAndBackground"
 +++
 
-## Visita a sapolandia
+## Visita à Sapolândia
 
-Hoje fui buscar minha filha no jardim de infancia e aproveitei a oportunidade para passar no lago onde minha filha pegou os girinos. Neste lago existia mais girinos que folhas caidas... Devia ter mais girinos que moleculas de H2O. Fiquei realmente surpreendido e quase entrei na agua com minha filha. (Deixo sempre um par de botas de borracha cano longo no carro)<br>
-So nao entrei pela falta de roupa para trocar, caso o lago fosse fundo e sujasse minha calca. 
+Hoje fui buscar minha filha no jardim de infância e aproveitei a oportunidade para passar no lago onde ela pegou os girinos. Neste lago existiam mais girinos do que folhas caídas... Devia ter mais girinos do que moléculas de H2O. Fiquei realmente surpreso e quase entrei na água com minha filha. (Deixo sempre um par de botas de borracha de cano longo no carro)<br>
+Só não entrei pela falta de roupa para trocar, caso o lago fosse fundo e sujasse minha calça.
 
 ![Lago cheio de girino](girinos_na_lagoa.jpg)
 <small>*Quanto girino!!!!*</small>
 
-Ao continuar brincando encontrei um sapo adulto e tentei tirar uma foto mas como ele estava longe (usei zoom 10x) a foto nao ficou tao boa....
+Ao continuar brincando, encontrei um sapo adulto e tentei tirar uma foto, mas como ele estava longe (usei zoom 10x), a foto não ficou tão boa....
 ![Sapo Cururu](sapo_adulto.jpg)
-<small>*Tenta achar ele na imagem...hehe*</small>
+<small>*Tente achar ele na imagem... hehe*</small>
 
-Como da pra ver na imagem dos girinos no lago, tem girinos grandes e girinos pequenos vivendo juntos. Acredito que sao especies diferentes de sapos que vem deixar os ovos neste lago. <br>
-Tambem estou com um pouco de medo pois ainda nao consegui dar nada de comer para os sapos aqui em casa.... Tinha 7 sapos vivos mas hoje nao somente achei 5, os outros 2 estao escondidos talvez? 
-Eu nao sei e tambem nao sei se sapos tem a capacidade ou a necessidade de se enterrar. <br>
+Como dá para ver na imagem dos girinos no lago, há girinos grandes e girinos pequenos vivendo juntos. Acredito que são espécies diferentes de sapos que vêm deixar os ovos neste lago. <br>
+Também estou com um pouco de medo, pois ainda não consegui dar nada de comer para os sapos aqui em casa.... Tinha 7 sapos vivos, mas hoje só achei 5, os outros 2 estão escondidos talvez?
+Eu não sei e também não sei se sapos têm a capacidade ou a necessidade de se enterrar. <br>
 
-Tomara que eles fiquem vivos. Nao gostaria de perder os sapinhos. Tentar criar 7 e perder 100% deles seria triste. 
+Tomara que eles fiquem vivos. Não gostaria de perder os sapinhos. Tentar criar 7 e perder 100% deles seria triste.
 
-Vou deixar este video aqui que foi bem interessante sobre o ciclo de vida de um sapo.
+Vou deixar este vídeo aqui que foi bem interessante sobre o ciclo de vida de um sapo.
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 20px;">
   <iframe
     src="https://www.youtube.com/embed/QhAaEuMe39s?si=_rSgQOHq7aA3AOmZ"
@@ -39,4 +39,20 @@ Vou deixar este video aqui que foi bem interessante sobre o ciclo de vida de um 
   </iframe>
 </div>
 
-Valeu e ate a proxima!
+## Atualização da situação anfíbia
+Decidimos devolver os sapos à lagoa de onde vieram...
+Os sapos não estão comendo nada do que estou dando e estamos com medo de todos morrerem.
+Mas decidimos comprar um sapo (se minha filha não conseguir pegar um), já que temos todo o ambiente pronto para ele.
+Estou pensando também em começar a fazer um terrário! Parece muito interessante.
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 20px;">
+  <iframe
+    src="https://www.youtube.com/embed/-85D32hUvvs?si=WBUYPIHnho-ghDQt"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 20px;">
+  </iframe>
+</div>
+
+
+Valeu e até a próxima!
